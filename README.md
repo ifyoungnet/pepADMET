@@ -4,7 +4,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/ifyoungnet/pepADMET?style=social)
 ![PyPi python](https://img.shields.io/badge/python-3.7.16-green)
 ![PyPi numpy](https://img.shields.io/badge/numpy-1.21.5-blue)
-![PyPi scikitlearn](https://img.shields.io/badge/scikit-learn-1.0.2-blue)
+![PyPi scikitlearn](https://img.shields.io/badge/scikit--learn-1.0.2-blue)
 ![PyPi torch](https://img.shields.io/badge/torch-1.13.1-blue)
 
 ## pepADMET: a novel computational platform for systematic ADMET evaluation of peptides
