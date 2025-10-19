@@ -8,3 +8,6 @@
 ![PyPi torch](https://img.shields.io/badge/torch-1.13.1-blue)
 
 ## pepADMET: a novel computational platform for systematic ADMET evaluation of peptides
+## Aims
+pepADMET is a comprehensive AI-driven platform for predicting absorption, distribution, metabolism, excretion, and toxicity (ADMET) properties of peptides. Designed for pharmacologists and clinicians, it accelerates peptide-based therapeutic development.
+## Explanation about the files
