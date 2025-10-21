@@ -11,7 +11,7 @@
 ## Aims
 pepADMET is a comprehensive AI-driven platform for predicting absorption, distribution, metabolism, excretion, and toxicity (ADMET) properties of peptides. Designed for pharmacologists and clinicians, it accelerates peptide-based therapeutic development.
 ## Explanation about the files
-The following are the key files and codes used for model training in this project. For more information, please visit: [https://pepadmet.ddai.tech/documentation](https://pepadmet.ddai.tech/documentation)
+The following are the key files and codes used for model training in this project. For more information, please visit: [https://pepadmet.ddai.tech/documentation](https://pepadmet.ddai.tech/documentation). \
 .
 **toxicity_early_stop.pth**: pre-trained predictive model that can be directly loaded for toxicity prediction. The model include trained network parameters and necessary configuration details, allowing users to perform inference without retraining. \
 **build_dataset.py** : Defines the parameters and data structures for preprocessing Toxicity.csv, including graph representation settings, sample grouping information, and data loading configurations. \
@@ -21,5 +21,7 @@ The following are the key files and codes used for model training in this projec
 
 **calculate_descriptors.py**: Used to compute 2,133 molecular descriptors based on example.csv and output the corresponding results in example_feature_result.csv \
 **Train.ipynb**: Demonstrates the complete workflow for model building, training, and prediction using the aforementioned files.
+___
+**Please cite**: pepADMET: a novel computational platform for systematic ADMET evaluation of peptides. Journal of Chemical information and modeling. 2025, submitted.
 
 
