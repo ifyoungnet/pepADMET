@@ -24,7 +24,7 @@ The following are the key files and codes used for model training in this projec
 ___
 
 ## Publication
-> Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Mengting Zhou, Defang Ouyang, Wenbin Zeng*, Jie Dong*. pepADMET: a novel computational platform for systematic ADMET evaluation of peptides. *Molecular Pharmaceutics*, submitted.
+> Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Mengting Zhou, Defang Ouyang, Wenbin Zeng*, Jie Dong*. pepADMET: a novel computational platform for systematic ADMET evaluation of peptides. *Journal of Chemical information and modeling*, submitted.
 
 ## Contact
   
