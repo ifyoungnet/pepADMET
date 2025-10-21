@@ -11,3 +11,6 @@
 ## Aims
 pepADMET is a comprehensive AI-driven platform for predicting absorption, distribution, metabolism, excretion, and toxicity (ADMET) properties of peptides. Designed for pharmacologists and clinicians, it accelerates peptide-based therapeutic development.
 ## Explanation about the files
+
+### toxicity_early_stop.pth: 
+pre-trained predictive model that can be directly loaded for toxicity prediction. The model include trained network parameters and necessary configuration details, allowing users to perform inference without retraining.
