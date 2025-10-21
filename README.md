@@ -22,6 +22,11 @@ The following are the key files and codes used for model training in this projec
 **calculate_descriptors.py**: Used to compute 2,133 molecular descriptors based on example.csv and output the corresponding results in example_feature_result.csv \
 **Train.ipynb**: Demonstrates the complete workflow for model building, training, and prediction using the aforementioned files.
 ___
-**Please cite**: pepADMET: a novel computational platform for systematic ADMET evaluation of peptides. Journal of Chemical information and modeling. 2025, submitted.
 
+## Publication
+> Xiaorong Tan, Qianhui Liu, Yanpeng Fang, Mengting Zhou, Defang Ouyang, Wenbin Zeng*, Jie Dong*. pepADMET: a novel computational platform for systematic ADMET evaluation of peptides. *Molecular Pharmaceutics*, submitted.
+
+## Contact
+  
+  * Prof. Jie Dong: <jiedong@csu.edu.cn> 
 
